@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio_website_harshlohar/static/css/main.b8ee0269.css",
+    "main.js": "/portfolio_website_harshlohar/static/js/main.652cd03f.js",
+    "static/media/bannerImg.png": "/portfolio_website_harshlohar/static/media/bannerImg.0867f680343f349643fa.png",
+    "static/media/testimonialTwo.png": "/portfolio_website_harshlohar/static/media/testimonialTwo.0587c1cdc4e267dcf194.png",
+    "static/media/contactImg.png": "/portfolio_website_harshlohar/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/portfolio_website_harshlohar/static/media/testimonialOne.a8c22826ef4d70c0d8fe.png",
+    "static/media/projectThree.jpeg": "/portfolio_website_harshlohar/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/projectTwo.jpg": "/portfolio_website_harshlohar/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/portfolio_website_harshlohar/index.html",
+    "main.b8ee0269.css.map": "/portfolio_website_harshlohar/static/css/main.b8ee0269.css.map",
+    "main.652cd03f.js.map": "/portfolio_website_harshlohar/static/js/main.652cd03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8ee0269.css",
+    "static/js/main.652cd03f.js"
+  ]
+}
